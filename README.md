@@ -11,3 +11,6 @@ use ShopModel;
 
 For more info:
 https://github.com/osiset/laravel-shopify/wiki/Installation
+
+NGROK:
+ngrok http http://laravel-shopify-osiset.local
